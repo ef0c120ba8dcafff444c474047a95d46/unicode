@@ -227,16 +227,16 @@ UTF-16 покажет оптимальные результаты при раб�
 
 ### Список использованных источников
 
-  * **[http://www.Unicode.org/versions/Unicode13.0.0/](http://www.Unicode.org/versions/Unicode13.0.0/)**
-  * **[https://www.Unicode.org/emoji/charts—13.0/emoji—counts.html](https://www.Unicode.org/emoji/charts—13.0/emoji—counts.html)**
-  * **[https://www.Unicode.org/standard/principles.html](https://www.Unicode.org/standard/principles.html)**
-  * **[http://www.Unicode.org/standard/translations/russian.html](http://www.Unicode.org/standard/translations/russian.html)**
-  * **[https://ru.bmstu.wiki/Unicode ](https://ru.bmstu.wiki/Unicode)**
-  * **[https://dic.academic.ru/dic.nsf/ruwiki/8184](https://dic.academic.ru/dic.nsf/ruwiki/8184)**
-  * **[https://www.iso.org/ru/standard/69119.html](https://www.iso.org/ru/standard/69119.html)**
-  * **[https://medium.com/@kozlova14/%D0%BE%D0%B1%D1%89%D0%B5%D0%B5—%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5—%D0%BE—Unicode—UTF-8—UTF-16—le—be—bom—65be4e13b57e](https://medium.com/@kozlova14/%D0%BE%D0%B1%D1%89%D0%B5%D0%B5—%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5—%D0%BE—Unicode—UTF-8—UTF-16—le—be—bom—65be4e13b57e)**
-  * **[https://i.voenmeh.ru/kafi5/Kam.loc/inform/UTF-8.htm](https://i.voenmeh.ru/kafi5/Kam.loc/inform/UTF-8.htm)**
-  * **[https://github.com/DmitryTsybulkin/unicode/blob/master/README.md](https://github.com/DmitryTsybulkin/unicode/blob/master/README.md)**
-  * **[https://www.compart.com/en/unicode/U+10342](https://www.compart.com/en/unicode/U+10342)**
+  * [http://www.Unicode.org/versions/Unicode13.0.0/](http://www.Unicode.org/versions/Unicode13.0.0/)
+  * [https://www.Unicode.org/emoji/charts-13.0/emoji-counts.html](https://www.Unicode.org/emoji/charts-13.0/emoji-counts.html)
+  * [https://www.Unicode.org/standard/principles.html](https://www.Unicode.org/standard/principles.html)
+  * [http://www.Unicode.org/standard/translations/russian.html](http://www.Unicode.org/standard/translations/russian.html)
+  * [https://ru.bmstu.wiki/Unicode ](https://ru.bmstu.wiki/Unicode)
+  * [https://dic.academic.ru/dic.nsf/ruwiki/8184](https://dic.academic.ru/dic.nsf/ruwiki/8184)
+  * [https://www.iso.org/ru/standard/69119.html](https://www.iso.org/ru/standard/69119.html)
+  * [https://medium.com/@kozlova14/%D0%BE%D0%B1%D1%89%D0%B5%D0%B5-%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE-unicode-utf-8-utf-16-le-be-bom-65be4e13b57e](https://medium.com/@kozlova14/%D0%BE%D0%B1%D1%89%D0%B5%D0%B5-%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE-unicode-utf-8-utf-16-le-be-bom-65be4e13b57e)
+  * [https://i.voenmeh.ru/kafi5/Kam.loc/inform/UTF-8.htm](https://i.voenmeh.ru/kafi5/Kam.loc/inform/UTF-8.htm)
+  * [https://github.com/DmitryTsybulkin/unicode/blob/master/README.md](https://github.com/DmitryTsybulkin/unicode/blob/master/README.md)
+  * [https://www.compart.com/en/unicode/U+10342](https://www.compart.com/en/unicode/U+10342)
 
 
